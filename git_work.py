@@ -1,2 +1,7 @@
 print ("hello")
 print("hai")
+print("welcome") 
+print("End")
+print("reopen")
+print("padma")
+print("sri")
